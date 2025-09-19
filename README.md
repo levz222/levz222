@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @levz222
-- 👀 I’m interested in coding and cryptos
-- 🌱 I’m currently learning python
+I’m building **Dealer**, a crypto casino on web3.
 
-<!---
-levz222/levz222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The idea is simple: fair games, fast crypto payouts, and no bullshit.  
+Dealer is made by players, for players.
+
+---
+
+## What I’m Working On
+- provably fair crypto games  
+- clean UI / smooth UX  
+- instant deposits & withdrawals  
+- community-driven features  
+
+---
+
+## Tech Stack
+- **Frontend:** React.js + TailwindCSS + Aceternity UI  
+- **Backend / Auth / DB:** Supabase  
