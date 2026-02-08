@@ -8,6 +8,6 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levz222&show_icons=true&theme=github_dark&hide_border=true)
 
 <br />
