@@ -8,5 +8,5 @@
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=levz222&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=levz222&theme=radical)
 <br />
