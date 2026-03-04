@@ -8,6 +8,5 @@
 
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levz222&show_icons=true&theme=github_dark&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levz222&layout=compact&theme=radical)
 <br />
