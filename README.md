@@ -8,5 +8,5 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levz222&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
 <br />
