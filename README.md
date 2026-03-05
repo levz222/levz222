@@ -6,6 +6,11 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+<a href="https://github.com/testaustime/">
+    <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=Testauskoira"/>
+</a>
+
 <br />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=levz222&theme=radical)
